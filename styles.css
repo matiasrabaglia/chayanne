@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+/* css Document*/
+* {
+    /* margin: 0; */
+    /* padding: 0; */
+}
+
+body {
+    background-color: violet;
+    color: black;
+    font-family: , sans-serif;
+    margin: 0;
+}
+Header {
+    color: black;
+    font-size: xx-large;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* height: 120px; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo{
+    height: 110px;
+    border: 5px;
+}
